@@ -1,0 +1,61 @@
+0000000000000000000000000000000000000000 7cb168ae243fa08338584fc297965f41774bb14f Firebase Studio <noreply@firebase.studio> 1757443987 +0000	commit (initial): Initialized workspace with Firebase Studio
+7cb168ae243fa08338584fc297965f41774bb14f adb8f5a18e742d8acd997bfbbd4894b480737e6a Fayaz <fayazahmedlone20@gmail.com> 1758274021 +0000	commit: File changes
+adb8f5a18e742d8acd997bfbbd4894b480737e6a bda2fe2783dc364fdd5ee8fdbfccc8fb70733cc1 Fayaz <fayazahmedlone20@gmail.com> 1758274109 +0000	commit: Set up Firebase Backend
+bda2fe2783dc364fdd5ee8fdbfccc8fb70733cc1 846b1c99e678f9af1dc3da43ef2e0f97e782150a Fayaz <fayazahmedlone20@gmail.com> 1758274727 +0000	commit: Try fixing this error: `Runtime Error: FirebaseError: Firebase: Error (a
+846b1c99e678f9af1dc3da43ef2e0f97e782150a bdb80aaa275d940d37bb344d1357901f23103665 Fayaz <fayazahmedlone20@gmail.com> 1758274840 +0000	commit: Try fixing this error: `Console Error: Firebase Anonymous Authentication
+bdb80aaa275d940d37bb344d1357901f23103665 493a51c1adb3743e705379ace0dd3fcd2e6c4aeb Fayaz <fayazahmedlone20@gmail.com> 1758274988 +0000	commit: this is the first page of onboarding screen
+493a51c1adb3743e705379ace0dd3fcd2e6c4aeb 26095949991fad98fe85e47eb724f12cb3091ff2 Fayaz <fayazahmedlone20@gmail.com> 1758275106 +0000	commit: improve ui of this page
+26095949991fad98fe85e47eb724f12cb3091ff2 0744502555d71e510b17d75b334ebb85b366f14f Fayaz <fayazahmedlone20@gmail.com> 1758275251 +0000	commit: in this page i should be able to choose only one in the favourite subjec
+0744502555d71e510b17d75b334ebb85b366f14f 521523f3207921601a10479eeb64bd7734f8369d Fayaz <fayazahmedlone20@gmail.com> 1758275456 +0000	commit: i want a sign in and login option in my landing page after the onboardin
+521523f3207921601a10479eeb64bd7734f8369d 0f346f31132e439ea05c5e7d39b552a0428dcaa0 Fayaz <fayazahmedlone20@gmail.com> 1758275993 +0000	commit: Try fixing this error: `Runtime Error: FirebaseError: Failed to get docu
+0f346f31132e439ea05c5e7d39b552a0428dcaa0 c7a1b0fd0276be6a1fab90295dc242606022488e Fayaz <fayazahmedlone20@gmail.com> 1758276090 +0000	commit: Try fixing this error: `Console Error: [2025-09-19T10:00:26.367Z] @fireb
+c7a1b0fd0276be6a1fab90295dc242606022488e 6d1d1fefa81e40b82a648b92679ffee6f8eae58a Fayaz <fayazahmedlone20@gmail.com> 1758276177 +0000	commit: FirebaseError: Failed to get document because the client is offline.
+6d1d1fefa81e40b82a648b92679ffee6f8eae58a 4e8683f81a236e31bfd7ad563c22786567658b04 Fayaz <fayazahmedlone20@gmail.com> 1758276493 +0000	commit: FirebaseError: Failed to get document because the client is offline. fix
+4e8683f81a236e31bfd7ad563c22786567658b04 474cf6d9b44919cce1b8ab629593c086a8c9ffd6 Fayaz <fayazahmedlone20@gmail.com> 1758276626 +0000	commit: solve this error
+474cf6d9b44919cce1b8ab629593c086a8c9ffd6 bb88c460b68104baffde4e9e929d313628f6c14c Fayaz <fayazahmedlone20@gmail.com> 1758276741 +0000	commit: Try fixing this error: `Console Error: Error: An unexpected response was
+bb88c460b68104baffde4e9e929d313628f6c14c ac85d65dce297dcfb6b2db359a6373c672991f57 Fayaz <fayazahmedlone20@gmail.com> 1758276874 +0000	commit: fix this error
+ac85d65dce297dcfb6b2db359a6373c672991f57 de9f2b005426f386d3d903ee2596b2160e728aed Fayaz <fayazahmedlone20@gmail.com> 1758277048 +0000	commit: after profile set up this page should be open
+de9f2b005426f386d3d903ee2596b2160e728aed a062c0ff0341666622f7cf6a9e33268e88c6f3ac Fayaz <fayazahmedlone20@gmail.com> 1758277348 +0000	commit: <!DOCTYPE html>
+a062c0ff0341666622f7cf6a9e33268e88c6f3ac 5e63d3fa4c83cc1dfa9b3e90080b595c84f0fd06 Fayaz <fayazahmedlone20@gmail.com> 1758277494 +0000	commit: Error: ./src/components/header.tsx:45:6
+5e63d3fa4c83cc1dfa9b3e90080b595c84f0fd06 7840992773b9d84ad5857936f958e5e383217cce Fayaz <fayazahmedlone20@gmail.com> 1758277544 +0000	commit: Try fixing this error: `Runtime Error: FirebaseError: Failed to get docu
+7840992773b9d84ad5857936f958e5e383217cce 5ef2b700b69a178e042f5adee01d33dd0fbcde6d Fayaz <fayazahmedlone20@gmail.com> 1758277636 +0000	commit: fix this error
+5ef2b700b69a178e042f5adee01d33dd0fbcde6d d8f3f839f55285a7feaf3eb8a822c4e12ceaad4e Fayaz <fayazahmedlone20@gmail.com> 1758277750 +0000	commit: courses are not getting load
+d8f3f839f55285a7feaf3eb8a822c4e12ceaad4e edbed505f9304e174ab0595c483955bb9b0fc01e Fayaz <fayazahmedlone20@gmail.com> 1758277825 +0000	commit: make it like this
+edbed505f9304e174ab0595c483955bb9b0fc01e d8f3f839f55285a7feaf3eb8a822c4e12ceaad4e Fayaz <fayazahmedlone20@gmail.com> 1758277843 +0000	reset: moving to d8f3f83
+d8f3f839f55285a7feaf3eb8a822c4e12ceaad4e 4de4ee788c20121d82f27296e0aa7ea4ccdc17a5 Fayaz <fayazahmedlone20@gmail.com> 1758277960 +0000	commit: when i choose computer science and all it should be showing me courses r
+4de4ee788c20121d82f27296e0aa7ea4ccdc17a5 c3c0fd12f34b9874d7a1f2b125a9703601ee3ca9 Fayaz <fayazahmedlone20@gmail.com> 1758278166 +0000	commit: Try fixing this error: `Console Error: Error: An unexpected response was
+c3c0fd12f34b9874d7a1f2b125a9703601ee3ca9 19e7b175ecf8dfd131ce7104385af73c90ea8377 Fayaz <fayazahmedlone20@gmail.com> 1758278423 +0000	commit: what is the reason of the error
+19e7b175ecf8dfd131ce7104385af73c90ea8377 94f02975bed0c2a9d487716cb4c634d418d05c78 Fayaz <fayazahmedlone20@gmail.com> 1758278625 +0000	commit: fix the error
+94f02975bed0c2a9d487716cb4c634d418d05c78 e8784094744728228a0426fea64e70594fe21a18 Fayaz <fayazahmedlone20@gmail.com> 1758278906 +0000	commit: when i create my profile then ishould be redirect to dashboard page ther
+e8784094744728228a0426fea64e70594fe21a18 36131d1142462201991153c5590f9c08d07db88b Fayaz <fayazahmedlone20@gmail.com> 1758279292 +0000	commit: You are an expert React + Firebase product engineer and UI/UX designer.
+36131d1142462201991153c5590f9c08d07db88b 8c16ebbe2241d2f38313d775697d45de2576295b Fayaz <fayazahmedlone20@gmail.com> 1758279328 +0000	commit: Try fixing this error: `Runtime Error: Error: React is not defined. Erro
+8c16ebbe2241d2f38313d775697d45de2576295b 7f535bf71a6cff6c27129b160b736a1c331bdf00 Fayaz <fayazahmedlone20@gmail.com> 1758279377 +0000	commit: Try fixing this error: `Console Error: In HTML, <div> cannot be a descen
+7f535bf71a6cff6c27129b160b736a1c331bdf00 601a8422d5fdb81957ebc855234d68f34ce3153c Fayaz <fayazahmedlone20@gmail.com> 1758279427 +0000	commit: Try fixing this error: `Runtime Error: Error: ChartTooltip is not define
+601a8422d5fdb81957ebc855234d68f34ce3153c 8af56e792badac551e63778dcf32b7e261fb5f61 Fayaz <fayazahmedlone20@gmail.com> 1758279726 +0000	commit: 1 — High-level user flow (step-by-step)
+8af56e792badac551e63778dcf32b7e261fb5f61 926255d259da2d0fd7b4dd26bc84ad8749cbb3e0 Fayaz <fayazahmedlone20@gmail.com> 1758279800 +0000	commit: when i click on simulate this career then it should open new page showin
+926255d259da2d0fd7b4dd26bc84ad8749cbb3e0 c7f9853ac07267adb4d3c995325eb16be52f5fbc Fayaz <fayazahmedlone20@gmail.com> 1758279912 +0000	commit: Try fixing this error: `Runtime Error: Error: Loader2 is not defined. Er
+c7f9853ac07267adb4d3c995325eb16be52f5fbc c589cea41220b98794326b06437be07f0a898f14 Fayaz <fayazahmedlone20@gmail.com> 1758279959 +0000	commit: Try fixing this error: `Console Error: A param property was accessed dir
+c589cea41220b98794326b06437be07f0a898f14 bcb788bc34174342840aa1405206579b03f1738c Fayaz <fayazahmedlone20@gmail.com> 1758281432 +0000	commit: # Full Firebase Prompt + Screen-by-Screen Breakdown for **Career Compass
+bcb788bc34174342840aa1405206579b03f1738c ebd1c7c24345686507675e34a8189a9474189cb7 Fayaz <fayazahmedlone20@gmail.com> 1758281649 +0000	commit: FirebaseError: Firebase: Error (auth/admin-restricted-operation).
+ebd1c7c24345686507675e34a8189a9474189cb7 1597a5fddbebd1f9fd436892ae763d6fed30ddb9 Fayaz <fayazahmedlone20@gmail.com> 1758295659 +0000	commit: after login it is slow
+1597a5fddbebd1f9fd436892ae763d6fed30ddb9 095981260e46d962c27c33473c772277042c79ed Fayaz <fayazahmedlone20@gmail.com> 1758297448 +0000	commit: Try fixing this error: `Build Error: Parsing ecmascript source code fail
+095981260e46d962c27c33473c772277042c79ed 3068bcf102e16652f91e7dbe474b6296799df03f Fayaz <fayazahmedlone20@gmail.com> 1758299314 +0000	commit: Perfect 👍 You want a **full-fledged prompt** that covers **screens 3, 4
+3068bcf102e16652f91e7dbe474b6296799df03f 5496378c1cd6ca67afc437393f1997913699b777 Fayaz <fayazahmedlone20@gmail.com> 1758299646 +0000	commit: fix every error
+5496378c1cd6ca67afc437393f1997913699b777 a0d04d6d53542243e6668ee3d2d76739dd7224cd Fayaz <fayazahmedlone20@gmail.com> 1758301088 +0000	commit: Try fixing this error: `Console Error: `DialogContent` requires a `Dialo
+a0d04d6d53542243e6668ee3d2d76739dd7224cd cd7d6edd2970c3627e00edae688746a4c50bd72a Fayaz <fayazahmedlone20@gmail.com> 1758301867 +0000	commit: there is some problem in text
+cd7d6edd2970c3627e00edae688746a4c50bd72a 836de0ad6337f86a6d3f9016d741d17531b86ab5 Fayaz <fayazahmedlone20@gmail.com> 1758303390 +0000	commit: when i click on simulate this career then it will open roadmap page whe
+836de0ad6337f86a6d3f9016d741d17531b86ab5 d51c3d2772982b5d89e3a300771ad6b22733e6fa Fayaz <fayazahmedlone20@gmail.com> 1758303910 +0000	commit: remove that roadmap and when i click on UI/Ux designer ther is simulate
+d51c3d2772982b5d89e3a300771ad6b22733e6fa 181800d3915a493d9a25f77ed45c749c7cc1918b Fayaz <fayazahmedlone20@gmail.com> 1758304424 +0000	commit: there is nothings in road map add roadmap for that in every topic ther
+181800d3915a493d9a25f77ed45c749c7cc1918b b8f7fdd95f8127b7dd87e9a146dfbd5513843ce9 Fayaz <fayazahmedlone20@gmail.com> 1758305164 +0000	commit: improve this profile pageOf course. This is an excellent clarification.
+b8f7fdd95f8127b7dd87e9a146dfbd5513843ce9 39a1b7412a930a6dc93e3676e63ac159a0d77145 Fayaz <fayazahmedlone20@gmail.com> 1758305270 +0000	commit: Try fixing this error: `Console Error: A component is changing an uncont
+39a1b7412a930a6dc93e3676e63ac159a0d77145 eea6fd8971115c69094e9598b771f6b27ef63e14 Fayaz <fayazahmedlone20@gmail.com> 1758305310 +0000	commit: skill
+eea6fd8971115c69094e9598b771f6b27ef63e14 4a7666ea1491dbf64d74c27ec56ccf86e4ceb0ed Fayaz <fayazahmedlone20@gmail.com> 1758306674 +0000	commit: Like when I open app it will open one page there should be details of my
+4a7666ea1491dbf64d74c27ec56ccf86e4ceb0ed a5d632ad305ee6dc7c000ded22c2d942640bfc75 Fayaz <fayazahmedlone20@gmail.com> 1758306933 +0000	commit: improve my landing page there detailed explain in that of in landong pag
+a5d632ad305ee6dc7c000ded22c2d942640bfc75 376f58992aff2e0dd045cee1c7ba082dab6894fc Fayaz <fayazahmedlone20@gmail.com> 1758307169 +0000	commit: like when i sign out then it should open main landing page
+376f58992aff2e0dd045cee1c7ba082dab6894fc 9312a310394d8a8309a7beb55a2143de0c942ee8 Fayaz <fayazahmedlone20@gmail.com> 1758307383 +0000	commit: when i sign out from dahbord i should redirect ot main landing page wher
+9312a310394d8a8309a7beb55a2143de0c942ee8 33f9181b72c3956aaf1445c8ec96e4e025ca28be Fayaz <fayazahmedlone20@gmail.com> 1758308443 +0000	commit: when i fill every detailed of profile then when i click on update my com
+33f9181b72c3956aaf1445c8ec96e4e025ca28be c50ba12fdab4a5f35c83546e2defe9a99de5ec21 Fayaz <fayazahmedlone20@gmail.com> 1758309389 +0000	commit: for this all store when i click on any then when i update my profile the
+c50ba12fdab4a5f35c83546e2defe9a99de5ec21 ee169e2da5a4ffecf6f63b8461b5951fb9324f90 Fayaz <fayazahmedlone20@gmail.com> 1758309554 +0000	commit: make full responsive for mobile also there is some in word fix that too
+ee169e2da5a4ffecf6f63b8461b5951fb9324f90 26ac722e81d7ee973f23ad7dae736b45f8f4aaa9 Fayaz <fayazahmedlone20@gmail.com> 1758309958 +0000	commit: in this page i hould able to see what what i have completed when i click
+26ac722e81d7ee973f23ad7dae736b45f8f4aaa9 3f8a5d231c64ed54065d5085e814a2921fc7d93c Fayaz <fayazahmedlone20@gmail.com> 1758348720 +0000	commit: help me to push in github
+3f8a5d231c64ed54065d5085e814a2921fc7d93c 6e9c0fdcb781c52dfca930c2b777e97ca5a7e2dd Fayaz <fayazahmedlone20@gmail.com> 1758349419 +0000	commit: logout that github i will again add new github
